@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @seiffawal
-- 👀 I’m interested in cybersecurtiy 
+- 👀 I’m interested in malware analysis and reverse engineering 
 - 🌱 I’m currently learning maleware anlaysis 
 - 📫 How to reach me sefoo.connect@proton.me
